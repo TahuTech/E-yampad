@@ -38,7 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* ENCODER THINGS */
 // #define ENCODER_DIRECTION_FLIP
-#define ENCODERS_PAD_A { D3 }
+#define ENCODERS_PAD_A { D4 }
 #define ENCODERS_PAD_B { D2 }
 
 /* Underlight configuration */
